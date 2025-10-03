@@ -7,7 +7,7 @@ The design uses a cinematic **chrome + black + smoky** theme with gold accents t
 The purpose of this project is to create a visually engaging prototype that showcases a passion for automotive history, combining design, functionality, and storytelling.
 
 ## Project Vision
-Legends on Wheels aims to be more than just a website — it is a concept that immerses visitors in the world of iconic automobiles.  
+Legends on Wheels aims to be more than just a website it is a concept that immerses visitors in the world of iconic automobiles.  
 By combining a striking smoky background, chrome accents, and a gallery of classic cars, the project seeks to inspire curiosity and admiration for the art of automotive design.
 
 ## Features
